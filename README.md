@@ -5,7 +5,7 @@ First person shooting game.
 
 * __Rules__
   * Level 1: 50 points to win
-  * level 2: unlimited
+  * Level 2: unlimited
   * Object effect:
     * Blue box: + 5 points
     * White box: + extra times
