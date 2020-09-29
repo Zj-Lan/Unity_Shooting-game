@@ -13,4 +13,4 @@ First person shooting game.
     * Red box: - times, - points
     * ___Flying coin___: + times, + point
 
-Try to catch more ___fkying coins___!!!
+Try to catch more ___flying coins___!!!
