@@ -11,4 +11,6 @@ First person shooting game.
     * White box: + extra times
     * Yellow box: - times
     * Red box: - times, - points
-    * ___Flying coin___: + times, + points
+    * ___Flying coin___: + times, + point
+
+Try to catch more ___fkying coins___!!!
