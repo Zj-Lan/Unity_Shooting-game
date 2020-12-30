@@ -1,7 +1,7 @@
 # Shooting-game
 
 First person shooting game.
-[Click to play](https://lanzzzzz.github.io/Unity_Shooting-game/)
+[Click to play](https://zj-lan.github.io/Unity_Shooting-game/)
 
 * __Rules__
   * Level 1: get 50 points to win
