@@ -14,3 +14,4 @@ First person shooting game.
     * ___Flying coin___: + times, + point
 
 Try to catch more ___flying coins___!!!
+![gif](docs/TemplateData/shoot.gif)
